@@ -1,8 +1,8 @@
 <?php
 
-DEFINE('URL', 'http://teste-php.dep/');
+DEFINE('URL', '');
 
-DEFINE("MYSQL_HOST", "localhost");
-DEFINE("MYSQL_USER", "root");
-DEFINE("MYSQL_PASSWORD", "Ese130!5235");
-DEFINE("MYSQL_DB_NAME", "teste-php");
+DEFINE("MYSQL_HOST", "");
+DEFINE("MYSQL_USER", "");
+DEFINE("MYSQL_PASSWORD", "");
+DEFINE("MYSQL_DB_NAME", "");
