@@ -1,0 +1,49 @@
+.navbar{
+    background-color: #f0f0f0!important;
+    width: 100%!important;
+    text-align: left!important;
+    padding: 10px 0!important;
+    margin-bottom: 0;
+}
+
+.logo{
+    margin-left: 20px;
+}
+.logo img{
+    height: 50px;
+}
+
+.div-body{
+    background-color: #9d9d9d;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+#btn-filtrar{
+    margin-top: 25px;
+}
+
+.table-hover tbody td{
+    line-height: 30px!important;
+}
+
+#bt-form{
+    margin-top: 10px!important;
+}
+
+.list-dashboard{
+    background-color: #fff;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.title-page-button{
+    display: flex;
+    justify-content: space-between;
+}
+.title-page-button h2{
+    height: 38px; align-self: center;
+}
+.title-page-button a{
+    height: 38px; align-self: center;
+}

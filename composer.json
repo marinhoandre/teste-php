@@ -1,0 +1,21 @@
+{
+  "name": "Teste PHP",
+  "description": "Avaliação Técnica",
+  "authors": [
+    {
+      "name": "Flávio André",
+      "email": "flaviomarinhoandre@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src",
+      "Core\\": "core",
+      "Conn\\": "conn",
+      "Config\\": "config"
+    }
+  },
+  "require": {
+    "robmorgan/phinx": "^0.10.6"
+  }
+}
